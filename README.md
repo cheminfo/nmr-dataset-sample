@@ -33,20 +33,11 @@ For each exercise you want to create you should can add the following files:
 
 Only folder that contain an answer (`structure.mol`) will be processed.
 
-## Building the toc
+## Build the toc and publish on gh-pages
 
-The system is based on various JSON files that are build automatically. In order to build the `toc.json` you first need to install [node.js](https://nodejs.org/).
+The system is based on various JSON files that are build automatically thanks to a github action.
 
-You should then install our `nmrium` command: `npm i --global nmrium-cli`.
-
-Once done from a command line move to the folder containing the exercises and execute the command `nmrium toc`.
-
-
-## Publish on gh-pages
-
-
-
-## Testing your exercises
+## Test your exercises
 
 https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-sample/toc.json
 
