@@ -4,7 +4,7 @@
     "folderName": "10_First",
     "children": [
       {
-        "uuid": "44135b94-fab8-42b7-af00-3e7431b17669",
+        "uuid": "7879d41d-2920-4e56-945d-5e972e8b372a",
         "mf": "C8H10O",
         "idCodeHash": "86200d52beb93183ee69cb115025e233",
         "file": "./10_First/10_60-12-8/index.json",
@@ -12,7 +12,7 @@
         "selected": true
       },
       {
-        "uuid": "67a1ab25-1273-4f30-9be3-ab1449303dab",
+        "uuid": "8054bec9-375a-48ac-aaa4-e16dade37cc1",
         "mf": "C3H6O",
         "idCodeHash": "7fa7d7b32a47c289c25df930826901de",
         "file": "./10_First/20_Second exercise/index.json",
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "uuid": "73bded18-a765-40bd-a810-8a504e1cff2f",
+    "uuid": "f9149e98-fe9a-4f95-ae22-26831916bbe2",
     "mf": "C8H10",
     "idCodeHash": "eb8d2e1545be5bbd9e2067e2c8f9c8a5",
     "file": "./20_Second level/index.json",
