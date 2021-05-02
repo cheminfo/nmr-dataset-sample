@@ -16,7 +16,8 @@ jobs:
           node-version: 16
       - name: install nmrium and create toc
         run: |
-          npm i --global nmrium-cli 
+#          npm i --global nmrium-cli
+          npm i git://github.com/zakodium/nmrium-cli.git#toc --global
           npx nmrium toc -c
           git remote -v
       - name: push to gh-pages
