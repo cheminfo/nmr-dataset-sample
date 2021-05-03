@@ -16,11 +16,10 @@ jobs:
           node-version: 16
       - name: install nmrium and create toc
         run: |
-          npm i git://github.com/zakodium/nmrium-cli.git#toc --global
+          npm i nmrium-cli --global
           npx nmrium toc -c
           git status
           git remote -v
-          find /home/runner/work/nmr-dataset-sample/
       - name: push to gh-pages
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
