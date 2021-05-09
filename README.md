@@ -4,4 +4,10 @@ Please check the userguide to create your own series of exercises:
 
 This text may be replaced by the description of the exercise.
 
-<-- LINKS -->
+## Link to all the exercises
+
+[https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-sample/toc.json](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-sample/toc.json)
+
+Links to series
+
+* [First Series](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-sample/toc_10_First.json)
