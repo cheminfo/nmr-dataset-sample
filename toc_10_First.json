@@ -1,19 +1,16 @@
-
-  [
-    {
-      "uuid": "f2918822-a51b-4f43-b6e3-81a098647e76",
-      "mf": "C8H10O",
-      "idCodeHash": "86200d52beb93183ee69cb115025e233",
-      "file": "./10_First/10_60-12-8/index.json",
-      "title": "Exercise 1",
-      "selected": true
-    },
-    {
-      "uuid": "ecee4bcc-2347-44b7-a297-385d7119f3b0",
-      "mf": "C3H6O",
-      "idCodeHash": "7fa7d7b32a47c289c25df930826901de",
-      "file": "./10_First/20_Second exercise/index.json",
-      "title": "Second exercise",
-      "selected": true
-    }
-  ]
+[
+  {
+    "mf": "C8H10O",
+    "idCodeHash": "86200d52beb93183ee69cb115025e233",
+    "file": "./10_First/10_60-12-8/index.json",
+    "title": "Exercise 1",
+    "selected": true
+  },
+  {
+    "mf": "C3H6O",
+    "idCodeHash": "7fa7d7b32a47c289c25df930826901de",
+    "file": "./10_First/20_Second exercise/index.json",
+    "title": "Second exercise",
+    "selected": true
+  }
+]
