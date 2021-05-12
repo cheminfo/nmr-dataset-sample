@@ -4,14 +4,15 @@
     "folderName": "10_First",
     "children": [
       {
-        "uuid": "7ZJSeb5KNLWwpHaohYmcbwp50a4=",
+        "id": "7ZJSeb5KNLWwpHaohYmcbwp50a4=",
         "mf": "C8H10O",
         "idCodeHash": "86200d52beb93183ee69cb115025e233",
         "file": "./10_First/10_60-12-8/index.json",
-        "title": "60-12-8"
+        "title": "60-12-8",
+        "selected": true
       },
       {
-        "uuid": "YF3WSsU06yubsK0x9c26wwFsyOA=",
+        "id": "YF3WSsU06yubsK0x9c26wwFsyOA=",
         "mf": "C3H6O",
         "idCodeHash": "7fa7d7b32a47c289c25df930826901de",
         "file": "./10_First/20_Second exercise/index.json",
@@ -20,7 +21,7 @@
     ]
   },
   {
-    "uuid": "x/m/ot97dnPnneEOibKbLS4H5q0=",
+    "id": "x/m/ot97dnPnneEOibKbLS4H5q0=",
     "mf": "C8H10",
     "idCodeHash": "eb8d2e1545be5bbd9e2067e2c8f9c8a5",
     "file": "./20_Second level/index.json",
