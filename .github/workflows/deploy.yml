@@ -16,7 +16,7 @@ jobs:
           node-version: 16
       - name: install nmrium and create toc
         run: |
-          npm i https://github.com/zakodium/nmrium-cli.git --global
+          npm i nmrium-cli --global
           nmrium deleteJSONs
           nmrium createExercisesTOC
           nmrium deleteStructures
