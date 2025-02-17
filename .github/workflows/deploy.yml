@@ -10,15 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Use Node.js 16
+      - name: Use Node.js 22
         uses: actions/setup-node@v1
         with:
-          node-version: 16
+          node-version: 22
       - name: install nmrium and create toc
         run: |
           npm i nmrium-cli --global
           nmrium deleteJSONs
-          nmrium createExercisesTOC
+          nmrium createExercisesTOC -i true -s true
           nmrium deleteStructures
           nmrium appendLinks
           git status
@@ -27,3 +27,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: .
+          single-commit: true
